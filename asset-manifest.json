@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Maftuhanshori-ui/turnkeyapp-ui.github.io.git/static/css/main.aad10442.chunk.css",
-    "main.js": "/Maftuhanshori-ui/turnkeyapp-ui.github.io.git/static/js/main.28c5c8f4.chunk.js",
-    "main.js.map": "/Maftuhanshori-ui/turnkeyapp-ui.github.io.git/static/js/main.28c5c8f4.chunk.js.map",
-    "runtime-main.js": "/Maftuhanshori-ui/turnkeyapp-ui.github.io.git/static/js/runtime-main.6ae68c9f.js",
-    "runtime-main.js.map": "/Maftuhanshori-ui/turnkeyapp-ui.github.io.git/static/js/runtime-main.6ae68c9f.js.map",
-    "static/css/2.61b4cb56.chunk.css": "/Maftuhanshori-ui/turnkeyapp-ui.github.io.git/static/css/2.61b4cb56.chunk.css",
-    "static/js/2.e35f29ea.chunk.js": "/Maftuhanshori-ui/turnkeyapp-ui.github.io.git/static/js/2.e35f29ea.chunk.js",
-    "static/js/2.e35f29ea.chunk.js.map": "/Maftuhanshori-ui/turnkeyapp-ui.github.io.git/static/js/2.e35f29ea.chunk.js.map",
-    "index.html": "/Maftuhanshori-ui/turnkeyapp-ui.github.io.git/index.html",
-    "static/css/2.61b4cb56.chunk.css.map": "/Maftuhanshori-ui/turnkeyapp-ui.github.io.git/static/css/2.61b4cb56.chunk.css.map",
-    "static/css/main.aad10442.chunk.css.map": "/Maftuhanshori-ui/turnkeyapp-ui.github.io.git/static/css/main.aad10442.chunk.css.map",
-    "static/js/2.e35f29ea.chunk.js.LICENSE.txt": "/Maftuhanshori-ui/turnkeyapp-ui.github.io.git/static/js/2.e35f29ea.chunk.js.LICENSE.txt"
+    "main.css": "/turnkeyapp-ui.github.io.git/static/css/main.aad10442.chunk.css",
+    "main.js": "/turnkeyapp-ui.github.io.git/static/js/main.28c5c8f4.chunk.js",
+    "main.js.map": "/turnkeyapp-ui.github.io.git/static/js/main.28c5c8f4.chunk.js.map",
+    "runtime-main.js": "/turnkeyapp-ui.github.io.git/static/js/runtime-main.a17b28f2.js",
+    "runtime-main.js.map": "/turnkeyapp-ui.github.io.git/static/js/runtime-main.a17b28f2.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/turnkeyapp-ui.github.io.git/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.e35f29ea.chunk.js": "/turnkeyapp-ui.github.io.git/static/js/2.e35f29ea.chunk.js",
+    "static/js/2.e35f29ea.chunk.js.map": "/turnkeyapp-ui.github.io.git/static/js/2.e35f29ea.chunk.js.map",
+    "index.html": "/turnkeyapp-ui.github.io.git/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/turnkeyapp-ui.github.io.git/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.aad10442.chunk.css.map": "/turnkeyapp-ui.github.io.git/static/css/main.aad10442.chunk.css.map",
+    "static/js/2.e35f29ea.chunk.js.LICENSE.txt": "/turnkeyapp-ui.github.io.git/static/js/2.e35f29ea.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6ae68c9f.js",
+    "static/js/runtime-main.a17b28f2.js",
     "static/css/2.61b4cb56.chunk.css",
     "static/js/2.e35f29ea.chunk.js",
     "static/css/main.aad10442.chunk.css",
