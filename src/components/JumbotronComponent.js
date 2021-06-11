@@ -13,7 +13,7 @@ const JumbotronComponent = () => {
                 <Container>
                     <div className="m-5 p-4">
                         <h4 className="display-7 " >Welcome, Muhammad Maftuh Anshori</h4>
-                        <p className="lead">Untuk memenuhi tugasU dari Turnkey.Id sebagai Frontend Engineer Test, saya memiliki kondisi kesehatan yang baik, berpenampilan menarik, mampu membangun komunikasi dengan baik dan mampu bekerja secara personal maupun tim. </p>
+                        <p className="lead">Untuk memenuhi tugas dari Turnkey.Id sebagai Frontend Engineer Test, saya memiliki kondisi kesehatan yang baik, berpenampilan menarik, mampu membangun komunikasi dengan baik dan mampu bekerja secara personal maupun tim. </p>
                         <hr className="my-2" />
                         <p><b>#HTML #CSS #ReactJs #GIT #GITHUB</b></p>
                         <p className="lead">
