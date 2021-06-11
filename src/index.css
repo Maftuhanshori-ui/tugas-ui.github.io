@@ -2,9 +2,35 @@ body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+    sans-serif,'Lobster', cursive;;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+
+
+
+.jumbimg{
+  background: url(https://images.wallpaperscraft.com/image/doors_silhouette_running_126268_1280x720.jpg) center center/cover 
+  no-repeat;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.2);
+  color: white;
+  object-fit: contain;
+  
+}
+
+footer{
+  border-top: 1px ;
+  padding-top: 50px;
+  margin-top: 200px;
+  background-color: #121a1a;
+  color: white;
+  
 }
 
 code {
